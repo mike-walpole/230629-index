@@ -11,12 +11,12 @@
 		<source src="/intro.webm" type="video/webm" />
 	</video>
 	<img class="w-28 md:w-56 pl-5 md:pl-10 pt-5 md:pt-10" src="/digitalindexlogo.avif" alt="logo" />
-	<div class="absolute bottom-0 left-0 w-3/4 md:w-2/3 pl-5 md:pl-10 pb-10 md:pb-5">
+	<div class="absolute bottom-0 left-0 w-3/4 md:w-2/3 pl-5 md:pl-10 pb-20 md:pb-10">
 		<h1 class="text-5xl font-soehne md:text-8xl leading-20 text-white">
 			Measuring digital excellence of Australian companies
 		</h1>
 		<button class="text-white font-soehne my-5 px-5 py-2 border border-white text-xl font-bold"
-			>Show me how I compare↗</button
+			>Show me how I compare</button
 		>
 	</div>
 </section>
@@ -41,7 +41,7 @@
 					outcomes—and market dominance.
 				</p>
 				<button class="border border-white text-white my-5 px-5 py-2 font-bold">
-					Show me how I compare↗</button
+					Show me how I compare</button
 				>
 			</div>
 		</div>
@@ -145,9 +145,9 @@
 		</div>
 		<button
 			class="text-white font-soehne my-5 px-5 py-2 border border-white md:text-xl font-bold w-full"
-			>Show me how I compare↗</button
+			>Show me how I compare</button
 		>
-		<div class="grid grid-cols-1 md:grid-cols-6 text-white font-soehne mt-48 pb-32">
+		<div class="grid grid-cols-3 md:grid-cols-6 text-white font-soehne mt-48 pb-32">
 			<img class="w-20" src="/digitalindexlogo.avif" alt="logo" />
 			<div />
 			<div />
