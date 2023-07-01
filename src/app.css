@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'Soehne';
+        src: local('Soehne'), url('/test-soehne-buch.woff2') format('woff2');
+            
+            font-weight: normal;
+            
+    }
+        @font-face {
+            font-family: 'Soehne';
+            src: local('Soehne'),
+                url('/test-soehne-kraftig.woff2') format('woff2');
+                font-weight: bold;
+    
+        }
+
+    @font-face {
+        font-family: 'Heldane';
+        src: url('/heldane.woff2') format('woff2');
+    }
+
+    @font-face {
+        font-family: 'Mono';
+        src: url('/soehnemono.woff2') format('woff2');
+    }
+}
