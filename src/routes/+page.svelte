@@ -42,9 +42,11 @@
 					value, and top-line growth. We have identified four accelerators that are strongly tied to
 					the ability of these companies to translate strategy into outcomes—and market dominance.
 				</p>
-				<button class="border border-white text-white my-5 px-5 py-2 font-bold">
-					Show me how I compare</button
-				>
+				<a href="/digital">
+					<button class="border border-white text-white my-5 px-5 py-2 font-bold">
+						Show me how I compare</button
+					>
+				</a>
 			</div>
 		</div>
 		<img class="w-full my-10 hover:grayscale-0" src="/two.avif" alt="one" />
@@ -163,10 +165,12 @@
 				</p>
 			</div>
 		</div>
-		<button
-			class="text-white font-soehne my-5 px-5 py-2 border border-white md:text-xl font-bold w-full"
-			>Show me how I compare</button
-		>
+		<a href="/digital">
+			<button
+				class="text-white font-soehne my-5 px-5 py-2 border border-white md:text-xl font-bold w-full"
+				>Show me how I compare</button
+			>
+		</a>
 		<div class="grid grid-cols-3 md:grid-cols-6 text-white font-soehne mt-48 pb-32">
 			<img class="w-20 mb-5" src="/digitalindexbluepineapple.avif" alt="logo" />
 			<div />
