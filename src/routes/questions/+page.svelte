@@ -1,13 +1,13 @@
 <script>
 	let q2 = '';
-	let q3 = '';
+	let q1 = '';
 </script>
 
 <div class="bg-[#1D1C1C] font-soehne text-white pt-10">
 	<div class="w-11/12 md:w-1/3 mx-auto">
-		<img class="w-32 md:mx-10 mt-10" src="/digitalindexbluepineapple.avif" alt="logo" />
+		<img class="w-32 mt-10" src="/digitalindexbluepineapple.avif" alt="logo" />
 		<form class="">
-			<div class="mt-10 mx-2 md:ml-10">
+			<div class="mt-10 mx-2">
 				<p class="text-slate-500">Question 1</p>
 				<h2 class="text-xl font-bold">
 					My company prioritizes digital excellence in its strategic documents or discussions and
@@ -17,19 +17,19 @@
 					(Frequency: 1 Never 2 Rarely 3 Occasionally 4 Frequently 5 All the time)
 				</p>
 				<div class="flex flex-row">
-					<input type="radio" id="q11" name="q2" value="1" bind:group={q2} />
+					<input type="radio" id="q11" name="q1" value="1" bind:group={q1} />
 					<label for="q11">1</label>
-					<input type="radio" id="q12" name="q2" value="2" bind:group={q2} />
+					<input type="radio" id="q12" name="q1" value="2" bind:group={q1} />
 					<label for="q12">2</label>
-					<input type="radio" id="q13" name="q2" value="3" bind:group={q2} />
+					<input type="radio" id="q13" name="q1" value="3" bind:group={q1} />
 					<label for="q13">3</label>
-					<input type="radio" id="q14" name="q2" value="4" bind:group={q2} />
+					<input type="radio" id="q14" name="q1" value="4" bind:group={q1} />
 					<label for="q14">4</label>
-					<input type="radio" id="q15" name="q2" value="5" bind:group={q2} />
+					<input type="radio" id="q15" name="q1" value="5" bind:group={q1} />
 					<label for="q15">5</label>
 				</div>
 			</div>
-			<div class="mt-10 mx-2 md:ml-10">
+			<div class="mt-10 mx-2">
 				<p class="text-slate-500">Question 2</p>
 				<h2 class="text-xl font-bold">
 					I have a clear understanding of what digital excellence is and entails
@@ -38,22 +38,22 @@
 					(Agreement: 1 Strongly Disagree 2 Disagree 3 Undecided 4 Agree 5 Strongly Agree)
 				</p>
 				<div class="flex flex-row">
-					<input type="radio" id="q11" name="q2" value="1" bind:group={q2} />
-					<label for="q11">1</label>
-					<input type="radio" id="q12" name="q2" value="2" bind:group={q2} />
-					<label for="q12">2</label>
-					<input type="radio" id="q13" name="q2" value="3" bind:group={q2} />
-					<label for="q13">3</label>
-					<input type="radio" id="q14" name="q2" value="4" bind:group={q2} />
-					<label for="q14">4</label>
-					<input type="radio" id="q15" name="q2" value="5" bind:group={q2} />
-					<label for="q15">5</label>
+					<input type="radio" id="q21" name="q2" value="1" bind:group={q2} />
+					<label for="q21">1</label>
+					<input type="radio" id="q22" name="q2" value="2" bind:group={q2} />
+					<label for="q22">2</label>
+					<input type="radio" id="q23" name="q2" value="3" bind:group={q2} />
+					<label for="q23">3</label>
+					<input type="radio" id="q24" name="q2" value="4" bind:group={q2} />
+					<label for="q24">4</label>
+					<input type="radio" id="q25" name="q2" value="5" bind:group={q2} />
+					<label for="q25">5</label>
 				</div>
 			</div>
 
 			<a href="#comps">
 				<button
-					class="border border-white my-20 font-bold md:ml-10 w-full h-12 text-white"
+					class="border border-white my-20 mx-2 font-bold w-full h-12 text-white"
 					type="submit">Show me how I compare to others</button
 				>
 			</a>
