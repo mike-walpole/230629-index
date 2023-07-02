@@ -5,7 +5,7 @@
 
 <div class="bg-[#1D1C1C] font-soehne text-white pt-10">
 	<div class="w-11/12 md:w-1/3 mx-auto">
-		<img class="w-32 mt-10" src="/digitalindexbluepineapple.avif" alt="logo" />
+		<img class="w-32 mt-10" src="/digitalindexbluepineapple.webp" alt="logo" />
 		<form class="">
 			<div class="mt-10 mx-2">
 				<p class="text-slate-500">Question 1</p>
