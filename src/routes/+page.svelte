@@ -19,7 +19,7 @@
 		<h1 class="text-5xl font-soehne md:text-8xl leading-20 text-white">
 			Measuring digital excellence of Australian companies
 		</h1>
-		<a href="/digital"
+		<a href="/questions"
 			><button class="text-white font-soehne my-5 px-5 py-2 border border-white text-xl font-bold"
 				>Show me how I compare</button
 			>
@@ -42,7 +42,7 @@
 					value, and top-line growth. We have identified four accelerators that are strongly tied to
 					the ability of these companies to translate strategy into outcomes—and market dominance.
 				</p>
-				<a href="/digital">
+				<a href="/questions">
 					<button class="border border-white text-white my-5 px-5 py-2 font-bold">
 						Show me how I compare</button
 					>
@@ -165,7 +165,7 @@
 				</p>
 			</div>
 		</div>
-		<a href="/digital">
+		<a href="/questions">
 			<button
 				class="text-white font-soehne my-5 px-5 py-2 border border-white md:text-xl font-bold w-full"
 				>Show me how I compare</button
