@@ -12,7 +12,7 @@
 	</video>
 	<img
 		class="w-28 md:w-56 pl-5 md:pl-10 pt-5 md:pt-10"
-		src="/digitalindexbluepineapple.avif"
+		src="/digitalindexbluepineapple.webp"
 		alt="logo"
 	/>
 	<div class="absolute bottom-0 left-0 w-3/4 md:w-2/3 pl-5 md:pl-10 pb-20 md:pb-10">
@@ -49,7 +49,7 @@
 				</a>
 			</div>
 		</div>
-		<img class="w-full my-10 hover:grayscale-0" src="/two.avif" loading="lazy" alt="one" />
+		<img class="w-full my-10 hover:grayscale-0" src="/two.webp" loading="lazy" alt="one" />
 	</div>
 
 	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-32">
@@ -90,7 +90,7 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-x-24 my-10">
 			<div class="mb-10">
 				<p class="text-white font-soehne underline mb-5">Completness of Vision</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/one.avif" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/one.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Companies that are characterized by strategic activities due to digitalization of products
 					and services as well as the definition of new digital business models. Leading companies
@@ -99,7 +99,7 @@
 			</div>
 			<div>
 				<p class="text-white font-soehne underline mb-5">Operational Excellence</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/three.avif" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/three.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Companies can be characterized by a strong ability to operationalize a digital strategy
 					considering their core value chain and available resources. Leading companies build upon
@@ -138,7 +138,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Determine where your company stands in its digital transformation
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/eight.avif" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/eight.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Assess the current maturity of digital capabilities, evaluate the status of existing
 					digital initiatives, and review long-term transformation goals.
@@ -148,7 +148,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Discuss the opportunities for and the value of applying the four accelerators
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/six.avif" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/six.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Consider how each of the four accelerators can help the company’s unique journey on the
 					basis of its current capabilities, initiatives, and goals.
@@ -158,7 +158,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Start pilots and agree on a roadmap to accelerate the digital transformation.
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/seven.avif" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/seven.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Depending upon how the company wants to leverage the four accelerators, design pilots that
 					can advance the digital journey and attain the desired goals.
@@ -172,7 +172,7 @@
 			>
 		</a>
 		<div class="grid grid-cols-3 md:grid-cols-6 text-white font-soehne mt-48 pb-32">
-			<img class="w-20 mb-5" src="/digitalindexbluepineapple.avif" alt="logo" />
+			<img class="w-20 mb-5" src="/digitalindexbluepineapple.webp" alt="logo" />
 			<div />
 			<div />
 
