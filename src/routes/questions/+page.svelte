@@ -84,6 +84,7 @@
 	<div class="h-[3px] mt-[21px] bg-[#1D1C1C]" />
 	<div class="h-[2px] mt-[22px] bg-[#1D1C1C]" />
 	<div class="h-[1px] mt-[23px] bg-[#1D1C1C]" />
+	<div class="h-[0px] mt-[24px] bg-[#1D1C1C]" />
 </div>
 
 <style>
