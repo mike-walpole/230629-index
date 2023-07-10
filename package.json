@@ -29,6 +29,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"graphql": "^16.7.1",
+		"graphql-request": "^6.1.0",
 		"svelte-select": "^5.6.1"
 	}
 }

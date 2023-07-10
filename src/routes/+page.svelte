@@ -61,29 +61,9 @@
 				<p class=" text-white font-soehne">
 					The Digital Index evaluates digital capability across 5 clearly defined business
 					dimensions to create a holistic view of digital maturity across the organisation.
-					Providing an experience where <span class="underline">customers </span>view the
-					organization as their digital partner using their preferred channels of interaction to
-					control their connected future on and offline
-				</p>
-				<p class="mt-2">
-					<span class="underline">Strategy</span> focuses on how the business transforms or operates
-					to increase its competitive advantage through digital initiatives; it is embedded within the
-					overall business strategy
-				</p>
-				<p class="mt-2">
-					<span class="underline">Technology</span> underpins the success of digital strategy by helping
-					to create, process, store, secure and exchange data to meet the needs of customers at low cost
-					and low overheads
-				</p>
-				<p class="mt-2">
-					Operational capability to <span class="underline">execute</span> and evolving processes and
-					tasks by utilizing digital technologies to drive strategic management and enhance business
-					efficiency and effectiveness.
-				</p>
-				<p class="mt-2">
-					Defining and developing an <span class="underline">organizational culture</span> with governance
-					and talent processes to support progress along the digital maturity curve, and the flexibly
-					to achieve growth and innovation objectives
+					Providing an experience where customers view the organization as their digital partner
+					using their preferred channels of interaction to control their connected future on and
+					offline
 				</p>
 			</div>
 		</div>

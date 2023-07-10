@@ -1,4 +1,5 @@
 <script>
+	import { blur } from 'svelte/transition';
 	let q2 = '';
 	let q1 = '';
 </script>
@@ -29,7 +30,7 @@
 					<label for="q15">5</label>
 				</div>
 			</div>
-			<div class="mt-10 mx-2">
+			<div transition:blur class="mt-10 mx-2">
 				<p class="text-slate-500">Question 2</p>
 				<h2 class="text-xl font-bold">
 					I have a clear understanding of what digital excellence is and entails
