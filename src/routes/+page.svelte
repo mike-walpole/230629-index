@@ -49,7 +49,7 @@
 				</a>
 			</div>
 		</div>
-		<img class="w-full my-10 hover:grayscale-0" src="/two.webp" loading="lazy" alt="one" />
+		<img class="w-full my-10 hover:grayscale-0" src="/thirteen.webp" loading="lazy" alt="one" />
 	</div>
 
 	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-32">
@@ -70,7 +70,7 @@
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-x-24 my-10">
 			<div class="mb-10">
 				<p class="text-white font-soehne underline mb-5">Completness of Vision</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/one.webp" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/twelve.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Companies that are characterized by strategic activities due to digitalization of products
 					and services as well as the definition of new digital business models. Leading companies
@@ -79,7 +79,7 @@
 			</div>
 			<div>
 				<p class="text-white font-soehne underline mb-5">Operational Excellence</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/three.webp" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/eleven.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Companies can be characterized by a strong ability to operationalize a digital strategy
 					considering their core value chain and available resources. Leading companies build upon
