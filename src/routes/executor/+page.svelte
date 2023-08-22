@@ -2,25 +2,23 @@
 	<div class="w-11/12 md:w-3/4 mx-auto">
 		<img class="w-32 mt-5" src="/digitalindexbluepineapple.webp" alt="logo" />
 	</div>
-
-	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-24">
+	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-32">
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-x-24 mt-5">
 			<div class="col-span-1 md:w-2/3 text-white font-heldane text-5xl pl-2 mb-5 md:mb-0">
 				How do I compare
 			</div>
 			<div class="text-white font-soehne col-span-1">
-				<img class="w-full my-5 hover:grayscale-0" src="/Leader.png" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/Executor.png" loading="lazy" alt="one" />
 				<p class=" text-white font-soehne">
-					Organizations positioned in the 'Leaders' quadrant are the crème de la crème of their
-					industries. They demonstrate both an astute foresight into the future and an impeccable
-					track record of execution. Their strategic planning is rooted in a deep understanding of
-					market dynamics, emerging trends, and potential disruptors. Not only do they anticipate
-					shifts in the industry, but they also actively shape these shifts, regularly pioneering
-					innovations and setting new standards. Their operational machinery works like a well-oiled
-					machine, enabling them to bring their visionary ideas to life with precision and
-					consistency. Other organizations often look up to them, studying their methods and
-					approaches in an attempt to emulate their success. In essence, 'Leaders' are not just
-					participants in the industry; they are the pace-setters and trend definers.
+					The 'Executors' are the masters of operational efficiency. Their strengths lie in the
+					realms of implementation, process optimization, and day-to-day management. Within their
+					walls, tasks are executed with clockwork precision, processes are continually refined, and
+					operational goals are consistently met or exceeded. However, when it comes to long-term
+					strategic planning or innovation, they might find themselves playing catch-up. They can
+					sometimes be so engrossed in perfecting the present that they lose sight of the future.
+					While they often deliver impeccable results in the short term, their lack of a holistic,
+					future-oriented vision might mean they are slow to adapt to industry changes or miss out
+					on pioneering new directions.
 				</p>
 			</div>
 		</div>
@@ -33,25 +31,24 @@
 			</div>
 			<div class="text-white font-soehne col-span-1">
 				<ul class="mb-3">
-					<span class="underline">Continuous Innovation:</span> Complacency is the enemy of leadership.
-					Continually explore new technologies, methods, and business models to maintain a competitive
-					edge.
+					<span class="underline">Strategic Planning: </span> Dedicate resources to long-term planning,
+					ensuring the company isn't just reacting to the industry but shaping it.
 				</ul>
 				<ul class="mb-3">
-					<span class="underline">Talent Retention:</span> As a leader, it's crucial to retain top talent.
-					Offer growth opportunities, competitive packages, and a positive work environment.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Diversification:</span> Explore related sectors or industries where
-					leadership can be replicated.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Stakeholder Engagement:</span> Keep shareholders, customers, and partners
-					engaged and informed, fostering loyalty.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Risk Management:</span> With a high profile comes high risk. Continually
-					reevaluate risks and have contingency plans in place.
+					<span class="underline">Research and Development:</span> Invest in R&D or innovation hubs
+					within the company.
+					<ul class="mb-3">
+						<span class="underline">External Consultation:</span> Engage industry thought leaders, consultants,
+						or think tanks to gain insights into future trends.
+					</ul>
+					<ul class="mb-3">
+						<span class="underline">Employee Training:</span> Encourage employees to engage in future-focused
+						training and seminars.
+					</ul>
+					<ul class="mb-3">
+						<span class="underline">Market Exploration: </span> Survey the landscape for emerging opportunities
+						and threats, ensuring readiness for future shifts.
+					</ul>
 				</ul>
 			</div>
 		</div>

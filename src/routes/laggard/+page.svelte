@@ -2,25 +2,24 @@
 	<div class="w-11/12 md:w-3/4 mx-auto">
 		<img class="w-32 mt-5" src="/digitalindexbluepineapple.webp" alt="logo" />
 	</div>
-
-	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-24">
+	<div class="w-11/12 md:w-3/4 mx-auto border-t-[1px] border-white mt-32">
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-x-24 mt-5">
 			<div class="col-span-1 md:w-2/3 text-white font-heldane text-5xl pl-2 mb-5 md:mb-0">
 				How do I compare
 			</div>
 			<div class="text-white font-soehne col-span-1">
-				<img class="w-full my-5 hover:grayscale-0" src="/Leader.png" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/Laggard.png" loading="lazy" alt="one" />
 				<p class=" text-white font-soehne">
-					Organizations positioned in the 'Leaders' quadrant are the crème de la crème of their
-					industries. They demonstrate both an astute foresight into the future and an impeccable
-					track record of execution. Their strategic planning is rooted in a deep understanding of
-					market dynamics, emerging trends, and potential disruptors. Not only do they anticipate
-					shifts in the industry, but they also actively shape these shifts, regularly pioneering
-					innovations and setting new standards. Their operational machinery works like a well-oiled
-					machine, enabling them to bring their visionary ideas to life with precision and
-					consistency. Other organizations often look up to them, studying their methods and
-					approaches in an attempt to emulate their success. In essence, 'Leaders' are not just
-					participants in the industry; they are the pace-setters and trend definers.
+					Those in the 'Laggards' quadrant are the underdogs of the industry. While they possess
+					potential, they grapple with challenges both in crafting a coherent, future-ready vision
+					and in streamlining their operations. These organizations might be newer entrants to the
+					market, trying to find their footing, or perhaps older entities that have lost their way
+					amidst rapid industry changes. External pressures, such as fierce competition or changing
+					consumer preferences, combined with internal challenges like outdated processes or a lack
+					of clarity, often define their journey. However, the story doesn't end here for the
+					'Laggards'. With the right interventions, strategic recalibrations, and perhaps some
+					external guidance, they can chart a course towards becoming visionaries, executors, or
+					even leaders in their domain.
 				</p>
 			</div>
 		</div>
@@ -33,25 +32,24 @@
 			</div>
 			<div class="text-white font-soehne col-span-1">
 				<ul class="mb-3">
-					<span class="underline">Continuous Innovation:</span> Complacency is the enemy of leadership.
-					Continually explore new technologies, methods, and business models to maintain a competitive
-					edge.
+					<span class="underline">Strategic Guidance: </span> Seek external guidance, potentially from
+					industry consultants, to develop a robust vision.
 				</ul>
 				<ul class="mb-3">
-					<span class="underline">Talent Retention:</span> As a leader, it's crucial to retain top talent.
-					Offer growth opportunities, competitive packages, and a positive work environment.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Diversification:</span> Explore related sectors or industries where
-					leadership can be replicated.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Stakeholder Engagement:</span> Keep shareholders, customers, and partners
-					engaged and informed, fostering loyalty.
-				</ul>
-				<ul class="mb-3">
-					<span class="underline">Risk Management:</span> With a high profile comes high risk. Continually
-					reevaluate risks and have contingency plans in place.
+					<span class="underline">Operational Audit:</span> Conduct a thorough review of internal
+					processes to identify inefficiencies and areas for improvement.
+					<ul class="mb-3">
+						<span class="underline">Skill Development: </span> Invest in training programs to upgrade
+						the skills of the workforce.
+					</ul>
+					<ul class="mb-3">
+						<span class="underline">Customer Engagement:</span> Engage closely with customers to understand
+						their evolving needs and preferences.
+					</ul>
+					<ul class="mb-3">
+						<span class="underline">Pilot Projects: </span> Before a complete overhaul, test new strategies
+						or processes on a smaller scale to gauge effectiveness.
+					</ul>
 				</ul>
 			</div>
 		</div>
