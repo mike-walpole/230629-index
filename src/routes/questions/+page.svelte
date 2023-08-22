@@ -2,6 +2,26 @@
 	import { blur } from 'svelte/transition';
 	let q2 = '';
 	let q1 = '';
+	let q3 = '';
+	let q4 = '';
+	let q5 = '';
+	let q6 = '';
+	let q7 = '';
+	let q8 = '';
+	let q9 = '';
+	let q10 = '';
+	let q11 = '';
+	let q12 = '';
+	let q13 = '';
+	let q14 = '';
+	let q15 = '';
+	let q16 = '';
+	let q17 = '';
+	let q18 = '';
+	let q19 = '';
+	let q20 = '';
+	let ops = q2 + q5 + q7 + q10 + q11 + q12 + q13 + q15 + q17 + q18;
+	let vision = q1 + q3 + q4 + q6 + q8 + q9 + q14 + q16 + q19 + q20;
 </script>
 
 <div class="bg-[#1D1C1C] font-soehne text-white pt-10">
@@ -10,12 +30,9 @@
 		<form class="">
 			<div class="mt-10 mx-2">
 				<p class="text-slate-500">Question 1</p>
-				<h2 class="text-xl font-bold">
-					My company prioritizes digital excellence in its strategic documents or discussions and
-					communicates frequently about it
-				</h2>
+				<h2 class="text-xl font-bold">Our organization has a clear digital vision and strategy</h2>
 				<p class="italic text-slate-500 mb-5">
-					(Frequency: 1 Never 2 Rarely 3 Occasionally 4 Frequently 5 All the time)
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
 				</p>
 				<div class="flex flex-row">
 					<input type="radio" id="q11" name="q1" value="1" bind:group={q1} />
@@ -30,13 +47,13 @@
 					<label for="q15">5</label>
 				</div>
 			</div>
-			<div transition:blur class="mt-10 mx-2">
+			<div class="mt-10 mx-2">
 				<p class="text-slate-500">Question 2</p>
 				<h2 class="text-xl font-bold">
-					I have a clear understanding of what digital excellence is and entails
+					Our organization invests regularly in digital training for employees
 				</h2>
 				<p class="italic text-slate-500 mb-5">
-					(Agreement: 1 Strongly Disagree 2 Disagree 3 Undecided 4 Agree 5 Strongly Agree)
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
 				</p>
 				<div class="flex flex-row">
 					<input type="radio" id="q21" name="q2" value="1" bind:group={q2} />
@@ -50,6 +67,424 @@
 					<input type="radio" id="q25" name="q2" value="5" bind:group={q2} />
 					<label for="q25">5</label>
 				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 3</p>
+				<h2 class="text-xl font-bold">
+					We use advanced technologies (e.g., AI, IoT, blockchain) to enhance our business
+					operations.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q31" name="q3" value="1" bind:group={q3} />
+					<label for="q31">1</label>
+					<input type="radio" id="q32" name="q3" value="2" bind:group={q3} />
+					<label for="q32">2</label>
+					<input type="radio" id="q33" name="q3" value="3" bind:group={q3} />
+					<label for="q33">3</label>
+					<input type="radio" id="q34" name="q3" value="4" bind:group={q3} />
+					<label for="q34">4</label>
+					<input type="radio" id="q35" name="q3" value="5" bind:group={q3} />
+					<label for="q35">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 4</p>
+				<h2 class="text-xl font-bold">
+					Digital considerations are integrated into our product/service development process.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q41" name="q4" value="1" bind:group={q4} />
+					<label for="q41">1</label>
+					<input type="radio" id="q42" name="q4" value="2" bind:group={q4} />
+					<label for="q42">2</label>
+					<input type="radio" id="q43" name="q4" value="3" bind:group={q4} />
+					<label for="q43">3</label>
+					<input type="radio" id="q44" name="q4" value="4" bind:group={q4} />
+					<label for="q44">4</label>
+					<input type="radio" id="q45" name="q4" value="5" bind:group={q4} />
+					<label for="q45">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 5</p>
+				<h2 class="text-xl font-bold">
+					Our organization is agile and can adapt to technological changes promptly.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q51" name="q5" value="1" bind:group={q5} />
+					<label for="q51">1</label>
+					<input type="radio" id="q52" name="q5" value="2" bind:group={q5} />
+					<label for="q52">2</label>
+					<input type="radio" id="q53" name="q5" value="3" bind:group={q5} />
+					<label for="q53">3</label>
+					<input type="radio" id="q54" name="q5" value="4" bind:group={q5} />
+					<label for="q54">4</label>
+					<input type="radio" id="q55" name="q5" value="5" bind:group={q5} />
+					<label for="q55">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 6</p>
+				<h2 class="text-xl font-bold">
+					We regularly evaluate and update our IT security measures.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q61" name="q6" value="1" bind:group={q6} />
+					<label for="q61">1</label>
+					<input type="radio" id="q62" name="q6" value="2" bind:group={q6} />
+					<label for="q62">2</label>
+					<input type="radio" id="q63" name="q6" value="3" bind:group={q6} />
+					<label for="q63">3</label>
+					<input type="radio" id="q64" name="q6" value="4" bind:group={q6} />
+					<label for="q64">4</label>
+					<input type="radio" id="q65" name="q6" value="5" bind:group={q6} />
+					<label for="q65">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 7</p>
+				<h2 class="text-xl font-bold">
+					Digital channels are a primary method for our customer interactions.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q71" name="q7" value="1" bind:group={q7} />
+					<label for="q71">1</label>
+					<input type="radio" id="q72" name="q7" value="2" bind:group={q7} />
+					<label for="q72">2</label>
+					<input type="radio" id="q73" name="q7" value="3" bind:group={q7} />
+					<label for="q73">3</label>
+					<input type="radio" id="q74" name="q7" value="4" bind:group={q7} />
+					<label for="q74">4</label>
+					<input type="radio" id="q75" name="q7" value="5" bind:group={q7} />
+					<label for="q75">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 8</p>
+				<h2 class="text-xl font-bold">
+					Our leadership understands and champions digital transformation.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q81" name="q8" value="1" bind:group={q8} />
+					<label for="q81">1</label>
+					<input type="radio" id="q82" name="q8" value="2" bind:group={q8} />
+					<label for="q82">2</label>
+					<input type="radio" id="q83" name="q8" value="3" bind:group={q8} />
+					<label for="q83">3</label>
+					<input type="radio" id="q84" name="q8" value="4" bind:group={q8} />
+					<label for="q84">4</label>
+					<input type="radio" id="q85" name="q8" value="5" bind:group={q8} />
+					<label for="q85">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 9</p>
+				<h2 class="text-xl font-bold">
+					Our organization's culture supports and encourages digital innovation.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q91" name="q9" value="1" bind:group={q9} />
+					<label for="q91">1</label>
+					<input type="radio" id="q92" name="q9" value="2" bind:group={q9} />
+					<label for="q92">2</label>
+					<input type="radio" id="q93" name="q9" value="3" bind:group={q9} />
+					<label for="q93">3</label>
+					<input type="radio" id="q94" name="q9" value="4" bind:group={q9} />
+					<label for="q94">4</label>
+					<input type="radio" id="q95" name="q9" value="5" bind:group={q9} />
+					<label for="q95">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 10</p>
+				<h2 class="text-xl font-bold">
+					We have a dedicated team or department focusing on digital transformation.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q101" name="q10" value="1" bind:group={q10} />
+					<label for="q101">1</label>
+					<input type="radio" id="q102" name="q10" value="2" bind:group={q10} />
+					<label for="q102">2</label>
+					<input type="radio" id="q103" name="q10" value="3" bind:group={q10} />
+					<label for="q103">3</label>
+					<input type="radio" id="q104" name="q10" value="4" bind:group={q10} />
+					<label for="q104">4</label>
+					<input type="radio" id="q105" name="q10" value="5" bind:group={q10} />
+					<label for="q105">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 11</p>
+				<h2 class="text-xl font-bold">
+					Our organization regularly uses data analytics to inform decision-making.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q111" name="q11" value="1" bind:group={q11} />
+					<label for="q111">1</label>
+					<input type="radio" id="q112" name="q11" value="2" bind:group={q11} />
+					<label for="q112">2</label>
+					<input type="radio" id="q113" name="q11" value="3" bind:group={q11} />
+					<label for="q113">3</label>
+					<input type="radio" id="q114" name="q11" value="4" bind:group={q11} />
+					<label for="q114">4</label>
+					<input type="radio" id="q115" name="q11" value="5" bind:group={q11} />
+					<label for="q115">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 12</p>
+				<h2 class="text-xl font-bold">
+					Digital metrics and KPIs are well-defined and tracked in our organization.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q111" name="q11" value="1" bind:group={q11} />
+					<label for="q111">1</label>
+					<input type="radio" id="q112" name="q11" value="2" bind:group={q11} />
+					<label for="q112">2</label>
+					<input type="radio" id="q113" name="q11" value="3" bind:group={q11} />
+					<label for="q113">3</label>
+					<input type="radio" id="q114" name="q11" value="4" bind:group={q11} />
+					<label for="q114">4</label>
+					<input type="radio" id="q115" name="q11" value="5" bind:group={q11} />
+					<label for="q115">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 13</p>
+				<h2 class="text-xl font-bold">
+					Our organization has a seamless integration between physical and digital customer
+					touchpoints.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q131" name="q13" value="1" bind:group={q13} />
+					<label for="q131">1</label>
+					<input type="radio" id="q132" name="q13" value="2" bind:group={q13} />
+					<label for="q132">2</label>
+					<input type="radio" id="q133" name="q13" value="3" bind:group={q13} />
+					<label for="q133">3</label>
+					<input type="radio" id="q134" name="q13" value="4" bind:group={q13} />
+					<label for="q134">4</label>
+					<input type="radio" id="q135" name="q13" value="5" bind:group={q13} />
+					<label for="q135">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 14</p>
+				<h2 class="text-xl font-bold">
+					We constantly assess and invest in the latest digital tools to stay competitive.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q141" name="q14" value="1" bind:group={q14} />
+					<label for="q141">1</label>
+					<input type="radio" id="q142" name="q14" value="2" bind:group={q14} />
+					<label for="q142">2</label>
+					<input type="radio" id="q143" name="q14" value="3" bind:group={q14} />
+					<label for="q143">3</label>
+					<input type="radio" id="q144" name="q14" value="4" bind:group={q14} />
+					<label for="q144">4</label>
+					<input type="radio" id="q145" name="q14" value="5" bind:group={q14} />
+					<label for="q145">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 15</p>
+				<h2 class="text-xl font-bold">
+					Our employees are empowered with the right digital tools to perform their roles
+					effectively.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q151" name="q15" value="1" bind:group={q15} />
+					<label for="q151">1</label>
+					<input type="radio" id="q152" name="q15" value="2" bind:group={q15} />
+					<label for="q152">2</label>
+					<input type="radio" id="q153" name="q15" value="3" bind:group={q15} />
+					<label for="q153">3</label>
+					<input type="radio" id="q154" name="q15" value="4" bind:group={q15} />
+					<label for="q154">4</label>
+					<input type="radio" id="q155" name="q15" value="5" bind:group={q15} />
+					<label for="q155">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 16</p>
+				<h2 class="text-xl font-bold">
+					We have an established process to handle digital disruption in our industry.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q161" name="q16" value="1" bind:group={q16} />
+					<label for="q161">1</label>
+					<input type="radio" id="q162" name="q16" value="2" bind:group={q16} />
+					<label for="q162">2</label>
+					<input type="radio" id="q163" name="q16" value="3" bind:group={q16} />
+					<label for="q163">3</label>
+					<input type="radio" id="q164" name="q16" value="4" bind:group={q16} />
+					<label for="q164">4</label>
+					<input type="radio" id="q165" name="q16" value="5" bind:group={q16} />
+					<label for="q165">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 17</p>
+				<h2 class="text-xl font-bold">
+					Collaboration tools and platforms are widely adopted across our organization.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q171" name="q17" value="1" bind:group={q17} />
+					<label for="q171">1</label>
+					<input type="radio" id="q172" name="q17" value="2" bind:group={q17} />
+					<label for="q172">2</label>
+					<input type="radio" id="q173" name="q17" value="3" bind:group={q17} />
+					<label for="q173">3</label>
+					<input type="radio" id="q174" name="q17" value="4" bind:group={q17} />
+					<label for="q174">4</label>
+					<input type="radio" id="q175" name="q17" value="5" bind:group={q17} />
+					<label for="q175">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 18</p>
+				<h2 class="text-xl font-bold">
+					Our IT infrastructure supports the rapid scaling of digital initiatives.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q181" name="q18" value="1" bind:group={q18} />
+					<label for="q181">1</label>
+					<input type="radio" id="q182" name="q18" value="2" bind:group={q18} />
+					<label for="q182">2</label>
+					<input type="radio" id="q183" name="q18" value="3" bind:group={q18} />
+					<label for="q183">3</label>
+					<input type="radio" id="q184" name="q18" value="4" bind:group={q18} />
+					<label for="q184">4</label>
+					<input type="radio" id="q185" name="q18" value="5" bind:group={q18} />
+					<label for="q185">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 19</p>
+				<h2 class="text-xl font-bold">
+					Our organization has successfully integrated digital technologies into existing business
+					models.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q191" name="q19" value="1" bind:group={q19} />
+					<label for="q191">1</label>
+					<input type="radio" id="q192" name="q19" value="2" bind:group={q19} />
+					<label for="q192">2</label>
+					<input type="radio" id="q193" name="q19" value="3" bind:group={q19} />
+					<label for="q193">3</label>
+					<input type="radio" id="q194" name="q19" value="4" bind:group={q19} />
+					<label for="q194">4</label>
+					<input type="radio" id="q195" name="q19" value="5" bind:group={q19} />
+					<label for="q195">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 mx-2">
+				<p class="text-slate-500">Question 20</p>
+				<h2 class="text-xl font-bold">
+					We have a proactive approach to exploring emerging digital trends and technologies.
+				</h2>
+				<p class="italic text-slate-500 mb-5">
+					(1 Strongly Disagree 2 Disagree 3 Neutral 4 Agree 5 Strongly Agree)
+				</p>
+				<div class="flex flex-row">
+					<input type="radio" id="q201" name="q20" value="1" bind:group={q20} />
+					<label for="q201">1</label>
+					<input type="radio" id="q202" name="q20" value="2" bind:group={q20} />
+					<label for="q202">2</label>
+					<input type="radio" id="q203" name="q20" value="3" bind:group={q20} />
+					<label for="q203">3</label>
+					<input type="radio" id="q204" name="q20" value="4" bind:group={q20} />
+					<label for="q204">4</label>
+					<input type="radio" id="q205" name="q20" value="5" bind:group={q20} />
+					<label for="q205">5</label>
+				</div>
+			</div>
+
+			<div class="mt-10 text-xl">
+				<label class="font-bold" for="email">Email:</label>
+
+				<input
+					type="email"
+					id="email"
+					pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]$"
+					size="30"
+					required
+				/>
+			</div>
+
+			<div class="mt-10 text-xl">
+				<label class="font-bold" for="email">Mobile:</label>
+
+				<input type="tel" id="tel" pattern="^(?:(?:4|0\d|\+61\d)\d{9})$" size="30" required />
 			</div>
 
 			<a href="#comps">
@@ -109,16 +544,18 @@
 		background-color: white;
 		color: black;
 	}
-	input[type='number'] {
-		width: 90px;
+	input[type='tel'] {
+		width: 100%;
+		background-color: #1d1c1c;
 		border: 0px solid black;
-		border-bottom: solid black;
-		text-align: center;
+		border-bottom: solid white;
+		text-align: LEFT;
 	}
 	input[type='email'] {
 		width: 100%;
+		background-color: #1d1c1c;
 		border: 0px solid black;
-		border-bottom: solid black;
-		text-align: center;
+		border-bottom: solid white;
+		text-align: left;
 	}
 </style>
