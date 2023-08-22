@@ -65,7 +65,7 @@
 				<div
 					class="calendly-inline-widget"
 					data-url="https://calendly.com/bluepineapple-mike/30min?hide_event_type_details=1&hide_gdpr_banner=1&background_color=1d1c1c&text_color=ffffff&primary_color=ffffff"
-					style="min-width:320px;height:700px;"
+					style="min-width:320px;height:1000px;"
 				/>
 				<script
 					type="text/javascript"
