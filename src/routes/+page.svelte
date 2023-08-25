@@ -1,17 +1,6 @@
-<section class="relative flex h-[100vh] shrink-0 flex-col">
-	<video
-		class="absolute w-full h-full object-cover -z-10"
-		muted
-		autoplay
-		loop
-		playsinline
-		disablepictureinpicture
-		poster="/intro.png"
-	>
-		<source src="/intro.webm" type="video/webm" />
-	</video>
+<section class="relative flex h-[100vh] bg-[#1D1C1C] shrink-0 flex-col">
 	<img
-		class="w-28 md:w-56 pl-5 md:pl-10 pt-5 md:pt-10"
+		class="w-20 md:w-36 pl-5 md:pl-10 pt-5 md:pt-10"
 		src="/digitalindexbluepineapple.webp"
 		alt="logo"
 	/>
@@ -118,7 +107,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Determine where your company stands in its digital transformation
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/eight.webp" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/fifteen.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Assess the current maturity of digital capabilities, evaluate the status of existing
 					digital initiatives, and review long-term transformation goals.
@@ -128,7 +117,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Discuss the opportunities for and the value of applying the four accelerators
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/six.webp" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/sixteen.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Consider how each of the four accelerators can help the company’s unique journey on the
 					basis of its current capabilities, initiatives, and goals.
@@ -138,7 +127,7 @@
 				<p class="text-white font-soehne underline mb-5">
 					Start pilots and agree on a roadmap to accelerate the digital transformation.
 				</p>
-				<img class="w-full my-5 hover:grayscale-0" src="/seven.webp" loading="lazy" alt="one" />
+				<img class="w-full my-5 hover:grayscale-0" src="/seventeen.webp" loading="lazy" alt="one" />
 				<p class="text-white font-soehne">
 					Depending upon how the company wants to leverage the four accelerators, design pilots that
 					can advance the digital journey and attain the desired goals.
